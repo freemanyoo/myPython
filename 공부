@@ -1,0 +1,5 @@
+가변 인수
+csr,ssr,ssg
+java @ToString , python __str__
+
+numpy(shape, ndim, dtype, resape, )
